@@ -1,10 +1,9 @@
 ﻿' *****************************************************************************************************
-' GSM-4-CommVS 
+' GSM-4-CommXS 
 ' (c) 2020 CWE, Inc.
-' 2020-07-06 v4.71
-' 2017-12-20 v2.61
+' 2020-07-07 v1.21
 ' created with Visual Studio 2019   vb.net
-' Conutrol program for CWE GSM-4 Gas Mixer
+' Conutrol program for independent 4th channel CWE GSM-4 Gas Mixer
 ' *****************************************************************************************************
 Option Explicit On
 
